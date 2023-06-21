@@ -1,6 +1,6 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*qNrYKaYwrrZZ_iPtVT4qzw.gif)
 <h1 align="center">Hi 👋, I'm Tajbeir Jobayer Sami</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajbeir&label=Profile%20views&color=0e75b6&style=flat" alt="tajbeir" /> </p>
 
