@@ -10,9 +10,11 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
+- 💬 Ask me about **C/C++**
+
 - 📫 How to reach me **tajbeirjobayersami@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
